@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hostel/static/css/main.a93ac214.css",
+    "main.js": "/hostel/static/js/main.61e11e7e.js",
+    "index.html": "/hostel/index.html",
+    "main.a93ac214.css.map": "/hostel/static/css/main.a93ac214.css.map",
+    "main.61e11e7e.js.map": "/hostel/static/js/main.61e11e7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a93ac214.css",
+    "static/js/main.61e11e7e.js"
+  ]
+}
